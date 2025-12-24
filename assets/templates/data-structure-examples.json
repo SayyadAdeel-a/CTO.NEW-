@@ -1,0 +1,196 @@
+{
+  "examples": {
+    "software_engineer": {
+      "full_name": "Sarah Johnson",
+      "email": "sarah.johnson@email.com",
+      "phone": "+1 (555) 123-4567",
+      "professional_summary": "Results-driven Senior Software Engineer with 6+ years of experience building scalable web applications. Expert in React, Node.js, and cloud architecture. Led teams of 5+ developers and delivered projects resulting in 40% performance improvements. Passionate about clean code, mentoring, and solving complex technical challenges.",
+      "education": [
+        {
+          "school": "Massachusetts Institute of Technology",
+          "degree": "Master of Science in Computer Science",
+          "years": "2015-2017"
+        },
+        {
+          "school": "University of California, Berkeley",
+          "degree": "Bachelor of Science in Computer Engineering",
+          "years": "2011-2015"
+        }
+      ],
+      "experience": [
+        {
+          "company": "TechCorp Inc.",
+          "role": "Senior Software Engineer",
+          "years": "2020-Present",
+          "description": "Lead development of microservices architecture serving 5M+ users. Reduced API response time by 45% through optimization. Mentor 3 junior developers and conduct code reviews. Technologies: React, Node.js, AWS, PostgreSQL, Docker."
+        },
+        {
+          "company": "StartupXYZ",
+          "role": "Full Stack Developer",
+          "years": "2017-2020",
+          "description": "Built MVP from scratch that attracted 100K users in first 6 months. Implemented CI/CD pipeline reducing deployment time by 60%. Collaborated with product team on feature roadmap. Technologies: Vue.js, Python, MongoDB, Redis."
+        }
+      ],
+      "skills": "JavaScript, TypeScript, React, Node.js, Python, AWS, Docker, Kubernetes, PostgreSQL, MongoDB, Git, Agile, System Design",
+      "linkedin_url": "https://linkedin.com/in/sarahjohnson",
+      "portfolio_url": "https://sarahjohnson.dev",
+      "github_url": "https://github.com/sarahjohnson"
+    },
+    "product_manager": {
+      "full_name": "Michael Chen",
+      "email": "michael.chen@email.com",
+      "phone": "+1 (555) 987-6543",
+      "professional_summary": "Strategic Product Manager with 8+ years driving product vision and execution for B2B SaaS products. Successfully launched 10+ features resulting in 35% revenue growth. Expert in user research, roadmap planning, and cross-functional leadership. Track record of building products that solve real customer problems.",
+      "education": [
+        {
+          "school": "Stanford University",
+          "degree": "MBA - Technology Management",
+          "years": "2014-2016"
+        },
+        {
+          "school": "University of Michigan",
+          "degree": "Bachelor of Science in Business Administration",
+          "years": "2010-2014"
+        }
+      ],
+      "experience": [
+        {
+          "company": "Enterprise Solutions Co.",
+          "role": "Senior Product Manager",
+          "years": "2019-Present",
+          "description": "Lead product strategy for $50M revenue product line. Conducted 100+ customer interviews to inform product roadmap. Increased user engagement by 45% through data-driven feature prioritization. Manage team of 8 engineers and 2 designers."
+        },
+        {
+          "company": "Growth Tech Inc.",
+          "role": "Product Manager",
+          "years": "2016-2019",
+          "description": "Launched 3 major product features that improved customer retention by 28%. Led cross-functional team of 12 across engineering, design, and marketing. Established product analytics framework to track KPIs and inform decisions."
+        }
+      ],
+      "skills": "Product Strategy, Roadmap Planning, User Research, A/B Testing, SQL, Analytics, Agile, Scrum, Stakeholder Management, Market Research, Product Marketing",
+      "linkedin_url": "https://linkedin.com/in/michaelchen",
+      "portfolio_url": "https://michaelchen.com",
+      "github_url": ""
+    },
+    "recent_graduate": {
+      "full_name": "Emily Rodriguez",
+      "email": "emily.rodriguez@email.com",
+      "phone": "+1 (555) 456-7890",
+      "professional_summary": "Motivated Computer Science graduate with strong foundation in software development and data structures. Completed 3 internships and multiple projects demonstrating proficiency in Python, Java, and web development. Quick learner eager to contribute to innovative tech solutions. Active member of Women in Tech community.",
+      "education": [
+        {
+          "school": "University of Washington",
+          "degree": "Bachelor of Science in Computer Science, GPA: 3.8/4.0",
+          "years": "2020-2024"
+        }
+      ],
+      "experience": [
+        {
+          "company": "Google Summer of Code",
+          "role": "Software Engineering Intern",
+          "years": "Summer 2023",
+          "description": "Contributed to open-source project with 10K+ stars on GitHub. Implemented feature that improved performance by 25%. Collaborated with developers from 5 countries using Git and code review practices."
+        },
+        {
+          "company": "University IT Department",
+          "role": "Web Development Intern",
+          "years": "2022-2023",
+          "description": "Redesigned department website using React and modern UI principles. Improved accessibility score from 65 to 95. Created documentation for future maintenance and updates."
+        },
+        {
+          "company": "Campus Tech Club",
+          "role": "Project Lead",
+          "years": "2021-2022",
+          "description": "Led team of 5 students to build mobile app for campus events. Published app on iOS and Android stores with 500+ downloads. Presented project at university innovation showcase."
+        }
+      ],
+      "skills": "Python, Java, JavaScript, React, HTML/CSS, Git, SQL, Data Structures, Algorithms, Problem Solving, Team Collaboration",
+      "linkedin_url": "https://linkedin.com/in/emilyrodriguez",
+      "portfolio_url": "https://emilyrodriguez.github.io",
+      "github_url": "https://github.com/emilyrodriguez"
+    },
+    "marketing_manager": {
+      "full_name": "David Thompson",
+      "email": "david.thompson@email.com",
+      "phone": "+1 (555) 234-5678",
+      "professional_summary": "Creative Marketing Manager with 7+ years driving brand awareness and lead generation for B2C and B2B companies. Expert in digital marketing, content strategy, and campaign management. Increased marketing qualified leads by 120% and reduced customer acquisition cost by 35%. Data-driven approach with strong analytical and creative skills.",
+      "education": [
+        {
+          "school": "Northwestern University",
+          "degree": "Master of Science in Integrated Marketing Communications",
+          "years": "2015-2016"
+        },
+        {
+          "school": "University of Texas at Austin",
+          "degree": "Bachelor of Arts in Marketing",
+          "years": "2011-2015"
+        }
+      ],
+      "experience": [
+        {
+          "company": "Digital Media Corp",
+          "role": "Marketing Manager",
+          "years": "2019-Present",
+          "description": "Develop and execute multi-channel marketing campaigns reaching 2M+ users monthly. Manage $500K annual marketing budget with 300% ROI. Lead team of 4 marketers and coordinate with sales, product, and creative teams. Expertise in SEO, SEM, email marketing, and social media."
+        },
+        {
+          "company": "E-commerce Startup",
+          "role": "Digital Marketing Specialist",
+          "years": "2016-2019",
+          "description": "Built marketing function from ground up for early-stage startup. Grew organic traffic from 0 to 100K monthly visitors. Implemented marketing automation that increased conversion rate by 45%. Managed paid advertising across Google Ads and Facebook Ads."
+        }
+      ],
+      "skills": "Digital Marketing, Content Marketing, SEO, SEM, Google Analytics, Email Marketing, Social Media Marketing, Marketing Automation, Campaign Management, A/B Testing, Budget Management, Team Leadership",
+      "linkedin_url": "https://linkedin.com/in/davidthompson",
+      "portfolio_url": "https://davidthompson.marketing",
+      "github_url": ""
+    },
+    "data_scientist": {
+      "full_name": "Dr. Priya Patel",
+      "email": "priya.patel@email.com",
+      "phone": "+1 (555) 345-6789",
+      "professional_summary": "PhD Data Scientist with 5+ years applying machine learning and statistical analysis to solve complex business problems. Published researcher with expertise in NLP, computer vision, and predictive modeling. Delivered models that generated $10M+ in business value. Strong communicator able to translate technical concepts for non-technical stakeholders.",
+      "education": [
+        {
+          "school": "Carnegie Mellon University",
+          "degree": "PhD in Machine Learning",
+          "years": "2016-2020"
+        },
+        {
+          "school": "Georgia Institute of Technology",
+          "degree": "Master of Science in Computer Science",
+          "years": "2014-2016"
+        },
+        {
+          "school": "University of Illinois at Urbana-Champaign",
+          "degree": "Bachelor of Science in Mathematics",
+          "years": "2010-2014"
+        }
+      ],
+      "experience": [
+        {
+          "company": "AI Research Lab",
+          "role": "Senior Data Scientist",
+          "years": "2020-Present",
+          "description": "Lead ML initiatives for recommendation system serving 10M+ users. Improved model accuracy by 32% using deep learning techniques. Published 5 papers in top-tier ML conferences. Mentor junior data scientists and present findings to executive leadership."
+        },
+        {
+          "company": "Financial Services Inc.",
+          "role": "Data Scientist",
+          "years": "2018-2020",
+          "description": "Built fraud detection system that prevented $15M in losses annually. Deployed models to production using MLOps best practices. Collaborated with engineering team to build scalable data pipelines. Conducted A/B tests to validate model improvements."
+        }
+      ],
+      "skills": "Python, R, TensorFlow, PyTorch, Scikit-learn, SQL, Spark, AWS, Machine Learning, Deep Learning, NLP, Computer Vision, Statistical Analysis, Data Visualization, MLOps",
+      "linkedin_url": "https://linkedin.com/in/priyapatel",
+      "portfolio_url": "https://priyapatel.ai",
+      "github_url": "https://github.com/priyapatel"
+    }
+  },
+  "metadata": {
+    "description": "Example CV data for different career paths",
+    "version": "1.0",
+    "last_updated": "2024-01-15",
+    "usage": "These examples can be used to test the CV builder or as templates for users"
+  }
+}
